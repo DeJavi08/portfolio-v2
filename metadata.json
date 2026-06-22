@@ -1,0 +1,6 @@
+{
+  "name": "Dejavi08 Bio Link",
+  "description": "Official bio link & portfolio page for @dejavi08 with dark lightning aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
